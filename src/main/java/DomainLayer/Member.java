@@ -1,4 +1,4 @@
-package com.example.katteklubprojekt.ModelKlasser;
+package DomainLayer;
 
 import jakarta.persistence.*;
 
