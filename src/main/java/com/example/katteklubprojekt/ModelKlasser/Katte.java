@@ -1,4 +1,4 @@
-package ModelKlasser;
+package com.example.katteklubprojekt.ModelKlasser;
 
 public class Katte {
     private int id;
