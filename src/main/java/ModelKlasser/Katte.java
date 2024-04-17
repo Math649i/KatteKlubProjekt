@@ -1,6 +1,4 @@
-package modelKlasser;
-
-import java.time.LocalDate;
+package ModelKlasser;
 
 public class Katte {
     private int id;

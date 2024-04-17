@@ -1,4 +1,4 @@
-package modelKlasser;
+package ModelKlasser;
 
 public class Bruger {
 
