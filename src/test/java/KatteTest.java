@@ -16,7 +16,16 @@ public class KatteTest {
             assertEquals("2/2-2003", kat.getFodselsdag());
             assertEquals(2, kat.getVegt());
         }
+    @Test
+    public void testKatteAlder() {
+        Katte kat = new Katte(56, "Osama Bin Laden", "Nigga",2,3,"3/3-2023");
+
+        kat.setAlder(2);
+        assertEquals(2, kat.getAlder());
 
     }
+}
+
+
 
 
